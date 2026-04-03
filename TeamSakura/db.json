@@ -8,7 +8,6 @@
       "team": "3팀",
       "mbti": "INFJ",
       "habit": ["playing guitar", "listening to music"]
-
     },
 
     {
@@ -61,11 +60,7 @@
       "explain": "간식통제반"
     }
   ],
-  "teamIntroduce": [
-    {
 
-    }
-  ]
   "teamName": [
     {
       "id": "1",
