@@ -5,7 +5,10 @@
       "name": "김지원",
       "email": "zone0728@gmail.com",
       "githubURL": "https://github.com/dony-beep",
-      "team": "3팀"
+      "team": "3팀",
+      "mbti": "INFJ",
+      "habit": ["playing guitar", "listening to music"]
+
     },
 
     {
@@ -13,21 +16,27 @@
       "name": "김유환",
       "email": "a01091238199@gmail.com",
       "githubURL": "https://github.com/2019147588",
-      "team": "3팀"
+      "team": "3팀",
+      "mbti": "ENFP",
+      "habit": ["watching baseball game", "home decoration"]
     },
     {
       "id": 3,
       "name": "백광훈",
       "email": "bkh010914@gmail.com",
       "githubURL": "https://github.com/HUN0914",
-      "team": "3팀"
+      "team": "3팀",
+      "mbti": "ISFJ",
+      "habit": ["watching movie", "running"]
     },
     {
       "id": 4,
       "name": "장아연",
       "email": "robinround77@gmail.com",
       "githubURL": "https://github.com/bigwaveBigwave",
-      "team": "3팀"
+      "team": "3팀",
+      "mbti": "INFP",
+      "habit": ["listening to music", "self make up"]
     }
   ],
 
@@ -52,7 +61,11 @@
       "explain": "간식통제반"
     }
   ],
+  "teamIntroduce": [
+    {
 
+    }
+  ]
   "teamName": [
     {
       "id": "1",
