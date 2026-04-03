@@ -1,5 +1,5 @@
 {
-  "students": [
+  "members": [
     {
       "id": 1,
       "name": "김지원",
@@ -28,6 +28,28 @@
       "email": "robinround77@gmail.com",
       "githubURL": "https://github.com/bigwaveBigwave",
       "team": "3팀"
+    }
+  ],
+
+  "rules": [
+    {
+      "id": "1",
+      "explain": "말 놓기"
+    },
+    {
+      "id": "2",
+      "explain": "식사 같이하기"
+    },
+    {
+      "id": "3",
+      "explain": "하루에 슬랙에 몇 마디씩 보내기(내용무관)"
+    }
+  ],
+
+  "introduce": [
+    {
+      "id": "1",
+      "explain": "간식통제반"
     }
   ]
 }
