@@ -1,0 +1,33 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "김지원",
+      "email": "zone0728@gmail.com",
+      "githubURL": "https://github.com/dony-beep",
+      "team": "3팀"
+    },
+
+    {
+      "id": 2,
+      "name": "김유환",
+      "email": "a01091238199@gmail.com",
+      "githubURL": "https://github.com/2019147588",
+      "team": "3팀"
+    },
+    {
+      "id": 3,
+      "name": "백광훈",
+      "email": "bkh010914@gmail.com",
+      "githubURL": "https://github.com/HUN0914",
+      "team": "3팀"
+    },
+    {
+      "id": 4,
+      "name": "장아연",
+      "email": "robinround77@gmail.com",
+      "githubURL": "https://github.com/bigwaveBigwave",
+      "team": "3팀"
+    }
+  ]
+}
