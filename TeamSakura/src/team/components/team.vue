@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>팀 페이지</h1>
+    <h1>팀 소개 페이지</h1>
 
     <Name />
     <Introduce />
